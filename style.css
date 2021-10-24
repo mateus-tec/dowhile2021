@@ -20,7 +20,7 @@ body {
 main {
   background: url(images/background.svg) no-repeat center/cover;
   width: 100vw;
-  min-height: 967px;
+  min-height: 967vh;
   height: 100vh;
 }
 
