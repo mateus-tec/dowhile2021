@@ -98,7 +98,7 @@ ul {
     background: url(images/background-desktop.svg) no-repeat center/cover;
     width: 100vw;
     height: 100vh;
-    min-height: 701px;
+    min-height: 720px;
   }
   .avatar {
     width: 9rem;
