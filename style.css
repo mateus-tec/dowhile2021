@@ -94,9 +94,6 @@ ul {
 /*responsive*/
 
 @media (min-width: 720px) {
-  html{
-    overflow-y:hidden;
-  }
   main {
     background: url(images/background-desktop.svg) no-repeat center/cover;
     width: 100vw;
